@@ -57,7 +57,7 @@
 
 #day5 HTML基础入门
 ##目标
-利用HTML语言写代码
+将百度页面的HTML上传到仓库，未来利用HTML语言写代码
 *what is HTML language? *
 ```
 待填
