@@ -17,4 +17,3 @@
 [慕课教程-Markdown 生成目录](https://www.imooc.com/wiki/markdownlesson/markdowntoc.html)<br>
 [Github上的README.md等Markdown文件如何生成TOC文件目录](https://blog.csdn.net/qq_40177015/article/details/113894048)<br>
 [实用帖 | 如何为 Markdown 文件自动生成目录？](https://zhuanlan.zhihu.com/p/31125442)<br>
-[Markdown文件中的GitHub相对链接](https://blog.csdn.net/asdfgh0077/article/details/103802258)<br>
